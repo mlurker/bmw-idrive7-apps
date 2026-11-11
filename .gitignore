@@ -1,0 +1,6 @@
+.DS_Store
+.claude/
+# build output, the fetched cluster-render, the release packages and catalog
+build/
+deps/
+dist/
