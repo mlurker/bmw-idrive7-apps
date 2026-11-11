@@ -26,6 +26,10 @@ It writes `catalog.json` (schema 2, the Store's catalog layout, the tool's `requ
 `component.json`), creates the `catalog` release when it is not there and uploads the package, the icon and
 `catalog.json` last. Older packages stay on the release.
 
+## Disclaimer
+
+Use at your own risk. These apps are not made or endorsed by BMW.
+
 ## License
 
 GPL-3.0-or-later (see [LICENSE](LICENSE)). The BMW SDK is not part of this repository and is never published here.
